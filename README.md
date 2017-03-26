@@ -1,9 +1,6 @@
-# Network_Link_Test.
+# Network-Test
 
-
-# What is it
-
-It is a simple arduino based network testing device which will let us know if a specific network can communicate to the internet.
+It is a simple low cost Arduino based network testing device which will let us know if a network can resolve DNS queries and can access the Internet.
 
 # How it works
 
