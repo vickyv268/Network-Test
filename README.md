@@ -21,4 +21,4 @@ If the DHCP request fails, then the OLED displays IP address as "0.0.0.0" as no 
 ![aeb3c598-9ba7-408e-a190-73327cf391cd](https://cloud.githubusercontent.com/assets/14306244/24331276/6545d7ac-124e-11e7-8d7b-dbe0fe63963e.jpg)
 
 
-# [Video Demo](https://www.youtube.com/watch?v=c5eB98lBDWU)
+# [Video Demo](https://youtu.be/LQ3Fr18DHvQ)
